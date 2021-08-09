@@ -21,7 +21,7 @@ collides with the traffic.
   
 ## Screenshots
 
-![App Screenshot](![image](https://user-images.githubusercontent.com/68856038/128658807-de8e5918-a7c4-43e2-85f1-bfea1e477ef0.png))
+![App Screenshot](https://user-images.githubusercontent.com/68856038/128658807-de8e5918-a7c4-43e2-85f1-bfea1e477ef0.png)
 )
 
   
